@@ -1,5 +1,5 @@
 # Hotel-de-jojo
-Selamat datang di *hotel de jojo*
+Selamat datang di *Hotel del Jojo*
 
 Berikut adalah harga-harga kamar yang kami punya:
 
