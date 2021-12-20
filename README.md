@@ -11,3 +11,5 @@ Berikut adalah harga-harga kamar yang kami punya:
 | 4  | Bar | ₩1,250,000 |
 
 **Selamat Menginap**
+
+
